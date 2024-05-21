@@ -12,7 +12,7 @@ import musicplayer
 import os
 
 
-headers = {"Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMTVjNmU1MzgtOGQ3MC00YjQ2LWIyZTgtZWQxMGZmZGQxYTQ0IiwidHlwZSI6ImFwaV90b2tlbiJ9.Bj3GF3UvTaquYopd3YRMfDoilmCSdzwk45E1nL4dASw"}
+headers = {"Authorization": "Paste your EDEN AI API KEY HERE"}
 
 url = "https://api.edenai.run/v2/text/chat"
 payload = {
